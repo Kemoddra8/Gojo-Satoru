@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['01020816886']
-global.premium = ['01020816886']
+global.premium = ['01016865749']
 global.ownernomer = '01020816886'
 global.ownername = 'DRAKEN BOT'
 global.botname = 'DRAKEN BOT'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'draken bot'
-global.author = 'Yt'
+global.author = 'bot'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🙂','😂','🥰']
 global.sp = '⭔'
